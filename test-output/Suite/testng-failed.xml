@@ -6,7 +6,6 @@
       <class name="TestNg.NG.annotation">
         <methods>
           <include name="configLogin1"/>
-          <include name="configLogin"/>
           <include name="mainMethod"/>
           <include name="tearDown"/>
         </methods>
